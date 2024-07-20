@@ -1,0 +1,18 @@
+{
+  "Name": "The QSMP Mod",
+  "Author": "General Gold",
+  "Description": "Adds CCs, characters and items from the QSMP",
+  "ModVersion": "1.6",
+  "GameVersion": "1.22+",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "ArmorBehaviour.cs",
+    "script.cs",
+    "CategoryBuilder.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3120237838"
+}
